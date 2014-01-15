@@ -28,6 +28,7 @@ Check out the individual repositories for screenshots of Base16 in action.
 * [MinTTY](https://github.com/geoffstokes/base16-mintty)
 * [Notepad++](https://github.com/idleberg/base16-notepad-plus-plus)
 * [PuTTY](https://github.com/benjojo/base-16-putty/)
+* [Zathura PDF Reader](https://github.com/esn89/base16-zathura) - Zathura PDF Reader
 
 ## Contributing
 Please submit any issues and/or pull requests to the appropriate [repository](https://github.com/chriskempson/base16#repositories). No pull requests shall be merged into this repository.
